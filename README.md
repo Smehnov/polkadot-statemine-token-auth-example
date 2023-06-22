@@ -1,4 +1,6 @@
 ## Polkadot Statemine(Assets hub) token auth example
+  
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Smehnov/polkadot-statemine-token-auth-example)
 
 You can set env variables in .env file
 
